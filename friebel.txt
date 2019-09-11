@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is my new file.
+=======
+This is my new file.
+>>>>>>> 196dfd63926010d0791592eb4a0c3b86dd4378b9
